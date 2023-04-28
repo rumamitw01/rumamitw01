@@ -7,6 +7,6 @@
 </div>
 
 ---
-Hello，I am **Rumami**. Call me **Roy Huang**,**W.Y. Huang**, any will do.   
+Hello，I am **Rumami**. Call me **Roy Huang**, **W.Y. Huang**, any will do.   
 I am a college student, major in Computer and Communication at NPTU in Taiwan.
 I look forward to learning more from you.
